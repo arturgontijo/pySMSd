@@ -3,7 +3,7 @@
 Python script to receive and send SMS automatically.
 -----------
 
-- Python 2.7
+- Python 2.7, Gammu ("sudo apt-get install python-gammu" or "sudo pip install python-gammu")
 - usb_modeswitch (Switch USB Modem from storage to modem. Install: "sudo apt-get install usb-modeswitch")
 - Tested with Ubuntu 16.10 and rasberry pi B+ with raspbian (kernel 4.4)
 - Check if usb_modeswitch worked ok: lsusb must return the device with "(modem on)" at description
