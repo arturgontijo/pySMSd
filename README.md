@@ -11,4 +11,4 @@ Python script to receive and send SMS automatically.
 - Run it: "sudo python2.7 pySMSd.py"
 
 
-![alt tag](https://raw.githubusercontent.com/arturgontijo/VPNManager/master/screeshots/screenshot_01.png)
+![alt tag](https://raw.githubusercontent.com/arturgontijo/pySMSd/master/screeshots/screenshot_01.png)
